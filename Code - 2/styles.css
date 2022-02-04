@@ -1,0 +1,69 @@
+.font-nav {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.logo-box {
+    background-color: rgb(255, 195, 116);
+    padding-left: 17px;
+}
+.logo-nav {
+    font-size: 25px;
+}
+
+.nav-cont {
+    margin-left: 15px;
+}
+
+.nav-design {
+    background-color: rgb(37, 194, 63);
+}
+
+hr {
+    margin-top: 2px;
+}
+
+.about-box {
+    height: 510px;
+    background-color: rgb(89, 230, 255);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-heading {
+    text-align: center;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+.about-img {
+    padding: 20px;
+    width: 400px;
+    float: right;
+}
+
+.about-para {
+    font-size: 25px;
+    padding-left: 25px;
+}
+
+.about-carousel {
+    text-align: center;
+    background-color: rgb(226, 43, 104);
+}
+
+.carousel-img {
+    width: 300px;
+}
+.carousel-item {
+    padding: 50px;
+}
+
+.careers-box {
+    height: 300px;
+    background-color: rgb(89, 249, 255);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.apply-form {
+    width: 400px;
+}
